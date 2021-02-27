@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['time_5ftype_287',['time_type',['../class_h_o_r_i_z_o_n_1_1_a_l_g_o_r_i_t_h_m_1_1_c_o_n_c_u_r_r_e_n_t_1_1concurrent__base.html#a6c5fcaac1309122018e9257f59ddad32',1,'HORIZON::ALGORITHM::CONCURRENT::concurrent_base']]]
+];
